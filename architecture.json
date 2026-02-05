@@ -1,0 +1,160 @@
+{
+  "book_id": "african-independence-mythopoeic-technological-anxiety",
+  "title": "The Earth-Seed Protocol",
+  "tagline": "When a dying drone delivers a world-ending secret, a girl with healing hands must choose between the land's ancient immune system and humanity's last desperate technology.",
+  "target_words": 70000,
+  "actual_words": 71451,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Symbiotic vs. Extractive Technology",
+    "The Land as Living Memory",
+    "Post-Colonial Technological Debt",
+    "Ancestral Knowledge as Cybersecurity"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Messenger",
+      "words": 2977
+    },
+    {
+      "ch": 2,
+      "title": "Nnenna's Warning",
+      "words": 3000
+    },
+    {
+      "ch": 3,
+      "title": "The Node's Hum",
+      "words": 3000
+    },
+    {
+      "ch": 4,
+      "title": "The Tech-Dump Boys",
+      "words": 3000
+    },
+    {
+      "ch": 5,
+      "title": "Juju Mechanics",
+      "words": 3000
+    },
+    {
+      "ch": 6,
+      "title": "The Akịrịngba Vine",
+      "words": 3000
+    },
+    {
+      "ch": 7,
+      "title": "Port Harcourt Deep Storage",
+      "words": 3000
+    },
+    {
+      "ch": 8,
+      "title": "The Chief's Generator",
+      "words": 3000
+    },
+    {
+      "ch": 9,
+      "title": "Neural Pattern Delta",
+      "words": 3000
+    },
+    {
+      "ch": 10,
+      "title": "Okigwe Ridge",
+      "words": 3000
+    },
+    {
+      "ch": 11,
+      "title": "The Provincial Authority",
+      "words": 3000
+    },
+    {
+      "ch": 12,
+      "title": "Father's Tools",
+      "words": 3000
+    },
+    {
+      "ch": 13,
+      "title": "The Land's Whisper",
+      "words": 3000
+    },
+    {
+      "ch": 14,
+      "title": "Corrupted Data",
+      "words": 3000
+    },
+    {
+      "ch": 15,
+      "title": "The Silent Pump",
+      "words": 3000
+    },
+    {
+      "ch": 16,
+      "title": "Razor Wire Compound",
+      "words": 3000
+    },
+    {
+      "ch": 17,
+      "title": "The Mycelial Network",
+      "words": 3000
+    },
+    {
+      "ch": 18,
+      "title": "Final Transmit",
+      "words": 3000
+    },
+    {
+      "ch": 19,
+      "title": "Anya Uwa Awakens",
+      "words": 3000
+    },
+    {
+      "ch": 20,
+      "title": "Primordial Silicate",
+      "words": 3000
+    },
+    {
+      "ch": 21,
+      "title": "The Immune System Responds",
+      "words": 3000
+    },
+    {
+      "ch": 22,
+      "title": "Between Vine and Wire",
+      "words": 3000
+    },
+    {
+      "ch": 23,
+      "title": "The Seed's Choice",
+      "words": 3000
+    },
+    {
+      "ch": 24,
+      "title": "A New Pulse",
+      "words": 2974
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a chapter from the perspective of the akịrịngba vine as it perceives and attacks the drone.",
+      "Create a log entry from a Port Harcourt Deep Storage technician who discovers a missing Earth-Seed unit.",
+      "Write a folk tale Nnenna would tell about the first time 'the land's immune system' manifested.",
+      "Draft a transmission from the Mars colony terraforming team, arguing against adapting the Earth-Seed protocol for use on Earth."
+    ],
+    "technical": [
+      "Design a schematic for Nkem's 'Anya Uwa' (Eye of the World) device, combining a drone optic, digital camera, and car battery.",
+      "Develop a conceptual model for a 'bio-electric trigger (neural pattern Delta)' that could activate or deactivate a piece of technology."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Nnedi Okorafor",
+      "William Gibson",
+      "Ursula K. Le Guin",
+      "Wole Soyinka"
+    ]
+  },
+  "cover_prompt": "A young woman with hands glowing with bioluminescent energy gently cradles a dying, biomechanical drone, its metallic shell cracked and sprouting with luminous fungal growths and native grasses, [atmospheric setting with mood-appropriate details: within a sacred grove where ancient, data-storing trees with bark like circuit boards intertwine with pulsating root networks, under a sky torn between a serene sunset and an approaching storm of nano-dust], [in the atmospheric style of a specific artist known for similar aesthetics: in the visionary and detailed style of James Jean, blending organic mysticism with technological decay, and the symbolic depth of Lola Gil], [book cover framing, centered composition, dramatic angle: a vertical book cover composition, the figure centered and monumental, viewed from a low angle to emphasize the looming conflict between the grove and a distant, crumbling arcology city], [appropriate lighting style with color temperature: dramatic chiaroscuro lighting, the soft gold and green bioluminescence of the girl and the grove contrasting with the cold, electric blue and rusted orange of the failing technology and storm, masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev]."
+}
